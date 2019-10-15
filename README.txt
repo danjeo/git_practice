@@ -1,1 +1,2 @@
-Hello Git and GitHubThis is a new Line
+Hello Git and GitHub
+This is a new Line
